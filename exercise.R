@@ -16,3 +16,6 @@ data('iris')
 # Find the species type of the flower that has the longest Sepal length
 
 # Select rows where species type is 'setosa' and Sepal.Width > 3.0
+
+# Create a folder in your lab3-exercises directory called data and export your iris data set into that folder
+
